@@ -31,7 +31,7 @@ class Splash {
   }
 
   async startAnimation() {
-    let splashes = [{ message: "Silenthy Client", author: "hafuvw" }];
+    let splashes = [{ message: "Zefiro Client", author: "hafuvw" }];
     let splash = splashes[Math.floor(Math.random() * splashes.length)];
     this.splashMessage.textContent = splash.message;
     this.splashAuthor.children[0].textContent = "@" + splash.author;

@@ -2,7 +2,7 @@
   "name": "zefiro-client",
   "preductname": "Zefiro Client",
   "versionType": "Estable",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Cliente oficial de Zefiro Studio",
   "main": "src/app.js",
   "author": {
